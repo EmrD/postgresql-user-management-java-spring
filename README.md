@@ -1,6 +1,6 @@
-# PostgreSQL Usage In Java Spring Boot
+# PostgreSQL User Management In Java Spring Boot
 
-This is a simple demo project to show how to use PostgreSQL in Java Spring Boot.
+This is a simple demo project to show how to use PostgreSQL in Java Spring Boot with user management system.
 
 ## What you'll need
 - PostgreSQL database
